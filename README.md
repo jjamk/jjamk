@@ -23,7 +23,7 @@
 
 <h3 align="center">🧸 solved.ac</h3>
 <p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtjgus1120)](https://solved.ac/rkdtjgus1120/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtjgus1120)](https://solved.ac/rkdtjgus1120/)</a>&nbsp
 <img src="http://mazandi.herokuapp.com/api?handle=rkdtjgus1120&theme=warm"/>
 </p>
 
@@ -35,7 +35,7 @@
 📌 Linux master 1급 필기 준비(~3.9)<br>
 </p>
 
-<h3 align="right">🧸 Another my pieces</h3>
+<h3 align="right">🍰 Another my pieces</h3>
 <p align="right">
   <a href="https://velog.io/@jjamk"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jjamk"/></a>&nbsp
     <a href="https://trapinmyworld.wordpress.com"><img src="https://img.shields.io/badge/wordpress-21759B?style=flat-square&logo=Vimeo&logoColor=white&link=https://trapinmyworld.wordpress.com/"/></a>&nbsp
