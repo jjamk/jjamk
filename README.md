@@ -1,7 +1,7 @@
 <h2 align="center">🧸 I am </h2>
 <p align="center">
-🧩 [2019~] Konyang Univ. medical IT engineering junior
-🧩 [2020~2021] 42Seoul student(a.k.a skang)
+🧩 [2019~] Konyang Univ. medical IT engineering junior<br>
+🧩 [2020~2021] 42Seoul student(a.k.a skang)<br>
   
   A greedy person who development and is also interested in security
 </p>
@@ -23,7 +23,7 @@
 
 <h3 align="center">🧸 solved.ac</h3>
 <p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtjgus1120)](https://solved.ac/rkdtjgus1120/)</a>&nbsp
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtjgus1120)](https://solved.ac/rkdtjgus1120/)
 <img src="http://mazandi.herokuapp.com/api?handle=rkdtjgus1120&theme=warm"/>
 </p>
 
