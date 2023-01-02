@@ -26,5 +26,5 @@
 <h3 align="right">🧸 Another my pieces</h3>
 <p align="right">
   <a href="https://velog.io/@jjamk"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jjamk"/></a>&nbsp
-  
+    <a href="https://trapinmyworld.wordpress.com"><img src="https://img.shields.io/badge/wordpress-21759B?style=flat-square&logo=Vimeo&logoColor=white&link=https://trapinmyworld.wordpress.com/"/></a>&nbsp
 </p>
