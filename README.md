@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
 </p>
 
-<h3>🧸 I'm studying</h3>
+<h2>🧸 I'm studying</h2>
 <p>
 📌 LG Aimers: AI전문가 과정 (1.2 ~ 1.29)<br>
 📌 [TechIT] 블록체인으로 NFT마켓 만들기 (1일 최소 1강좌)<br>
