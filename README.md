@@ -24,7 +24,6 @@
 <h3 align="center">🧸 solved.ac</h3>
 <p align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtjgus1120)](https://solved.ac/rkdtjgus1120/)
-<img src="http://mazandi.herokuapp.com/api?handle=rkdtjgus1120&theme=warm"/>
 </p>
 
 <h3 align="center">🧸 I'm studying</h3>
