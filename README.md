@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="right">🧸 Another my pieces</h3>
-<a href="https://velog.io/@jjamk"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jjamk"/></a>&nbsp
+<a href="https://velog.io/@jjamk"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jjamk"/></a>&nbsp
 <p align="right">
   
 </p>
