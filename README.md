@@ -1,7 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtjgus1120)](https://solved.ac/rkdtjgus1120/)
 <img src="http://mazandi.herokuapp.com/api?handle=rkdtjgus1120&theme=warm"/>
 
-<h3 align="center">🧸 I've used</h3>
+<h3 align="center">🧸 I've used at least once</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
