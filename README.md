@@ -5,6 +5,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C%20-000000?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>&nbsp
@@ -16,10 +17,10 @@
 
 <h3 align="center">🧸 I'm studying</h3>
 <p align="center">
-📌 LG Aimers: AI전문가 과정 (1.2 ~ 1.29)
-📌 [TechIT] 블록체인으로 NFT마켓 만들기 (1일 최소 1강좌)
-📌 Python 자료구조(1일 최소 1강 1문제)
-📌 Linux master 1급 필기 준비(~3.9)
+📌 LG Aimers: AI전문가 과정 (1.2 ~ 1.29)<br>
+📌 [TechIT] 블록체인으로 NFT마켓 만들기 (1일 최소 1강좌)<br>
+📌 Python 자료구조(1일 최소 1강 1문제)<br>
+📌 Linux master 1급 필기 준비(~3.9)<br>
 </p>
 
 <h3 align="right">🧸 Another my pieces</h3>
