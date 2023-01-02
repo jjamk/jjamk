@@ -1,5 +1,5 @@
 <h2 align="center">🧸 I am </h2>
-<p align="center">
+<p align="left">
 🧩 [2019~] Konyang Univ. medical IT engineering junior<br>
 🧩 [2020~2021] 42Seoul student(a.k.a skang)<br>
   
