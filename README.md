@@ -1,5 +1,11 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtjgus1120)](https://solved.ac/rkdtjgus1120/)
-<img src="http://mazandi.herokuapp.com/api?handle=rkdtjgus1120&theme=warm"/>
+<h2 align="center">🧸 I am </h2>
+<p align="center">
+🧩 [2019~] Konyang Univ. medical IT engineering junior
+🧩 [2020~2021] 42Seoul student(a.k.a skang)
+  
+  A greedy person who development and is also interested in security
+</p>
+
 
 <h3 align="center">🧸 I've used at least once</h3>
 <p align="center">
@@ -13,6 +19,12 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
 <br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
+</p>
+
+<h3 align="center">🧸 solved.ac</h3>
+<p align="center">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtjgus1120)](https://solved.ac/rkdtjgus1120/)
+<img src="http://mazandi.herokuapp.com/api?handle=rkdtjgus1120&theme=warm"/>
 </p>
 
 <h3 align="center">🧸 I'm studying</h3>
