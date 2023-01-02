@@ -9,7 +9,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtjgus1120)](https://solved.ac/rkdtjgus1120)
 
-<h3 >🧸 I've used at least once</h3>
+<h2 >🧸 I've used at least once</h2>
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
