@@ -1,5 +1,5 @@
-<h2 align="center">🧸 I am </h2>
-<p align="left">
+<h2>🧸 I am </h2>
+<p >
 🧩 [2019~] Konyang Univ. medical IT engineering junior<br>
 🧩 [2020~2021] 42Seoul student(a.k.a skang)<br>
   
@@ -9,8 +9,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtjgus1120)](https://solved.ac/rkdtjgus1120)
 
-<h3 align="center">🧸 I've used at least once</h3>
-<p align="center">
+<h3 >🧸 I've used at least once</h3>
+<p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C%20-000000?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp
@@ -23,8 +23,8 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">🧸 I'm studying</h3>
-<p align="center">
+<h3>🧸 I'm studying</h3>
+<p>
 📌 LG Aimers: AI전문가 과정 (1.2 ~ 1.29)<br>
 📌 [TechIT] 블록체인으로 NFT마켓 만들기 (1일 최소 1강좌)<br>
 📌 Python 자료구조(1일 최소 1강 1문제)<br>
