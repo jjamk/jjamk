@@ -28,10 +28,11 @@
 
 <h2>🧸 I'm studying</h2>
 <p>
-📌 LG Aimers: AI전문가 과정 (1.2 ~ 1.29)<br>
+📌 flutter provider 공부<br>
 📌 [TechIT] 블록체인으로 NFT마켓 만들기 (1일 최소 1강좌)<br>
 📌 Python 자료구조(1일 최소 1강 1문제)<br>
 📌 Linux master 1급 필기 준비(~3.9)<br>
+<del> LG Aimers: AI전문가 과정 (1.2 ~ 1.29)<del><br>
 </p>
 
 <h3 align="right">🍰 <i>Another my pieces </i></h3>
