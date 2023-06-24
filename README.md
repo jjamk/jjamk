@@ -31,6 +31,8 @@
 <p>
 📌 빅데이터실무활용능력 1급 시험 (8.7 ~ 8.11)<br>
 📌 Linux master 2급 필기 준비(~7.31)<br>
+  이외 의료기기 대학생창업팀에 합류해 창업 관련 여러 활동 중입니다.
+  🔗 [KOBEC 소개 웹사이트](http://kono9032.dothome.co.kr/kobec/templates/kobec.html)
 <br>
 </p>
 
