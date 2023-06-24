@@ -29,11 +29,9 @@
 
 <h2>🧸 I'm studying</h2>
 <p>
-📌 flutter provider 공부<br>
-📌 [TechIT] 블록체인으로 NFT마켓 만들기 (1일 최소 1강좌)<br>
-📌 Python 자료구조(1일 최소 1강 1문제)<br>
-📌 Linux master 1급 필기 준비(~3.9)<br>
-<del> LG Aimers: AI전문가 과정 (1.2 ~ 1.29)<del><br>
+📌 빅데이터실무활용능력 1급 시험 (8.7 ~ 8.11)<br>
+📌 Linux master 2급 필기 준비(~7.31)<br>
+<br>
 </p>
 
 <h3 align="right">🍰 <i>Another my pieces </i></h3>
