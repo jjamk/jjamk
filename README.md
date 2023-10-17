@@ -3,7 +3,7 @@
   🧩 [2019~] <strong>Konyang Univ. medical IT engineering junior & double major in Next Generation Communication Convergence </strong><br>
   🧩 [2020~2021] <strong> 42Seoul student(a.k.a skang)</strong><br>
   🧩 [2022] <strong> "All solve" club Leader</strong> <br>
-  🧩 [2023~] <strong> Team "KOBEC" board member</strong> <br>
+  🧩 [2023] <strong> Team "KOBEC" board member</strong> <br>
   <br>
   A greedy person who development and is also interested in security & communication
 </p>
