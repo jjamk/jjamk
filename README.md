@@ -32,7 +32,7 @@
 📌 Linux master 2급 실기 준비(~12.9)<br>
 📌 패스트캠퍼스 '블록체인 A to Z' 강의 간간히 수강 중<br>
   이외 의료기기 대학생창업팀에 합류해 창업 관련 여러 활동 중입니다.<br>
-  🔗KOBEC 소개 웹사이트 : http://kono9032.dothome.co.kr/kobec/templates/kobec.html
+  🔗KOBEC 소개 웹사이트 : http://kono9032.dothome.co.kr/kobec/templates/kobec.html<br>
 📌 정보보안 독학 중..<br>
 <br>
 </p>
