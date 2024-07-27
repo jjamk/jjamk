@@ -4,6 +4,7 @@
   🧩 [2020~2021] <strong> 42Seoul student(a.k.a skang)</strong><br>
   🧩 [2022] <strong> "All solve" club Leader</strong> <br>
   🧩 [2023] <strong> Team "KOBEC" board member</strong> <br>
+  🧩 [2024] <strong> Groom KDT Information Security Specialist Course 5th period</strong> <br>
   <br>
   A greedy person who development and is also interested in security & communication
 </p>
@@ -29,11 +30,9 @@
 
 <h2>🧸 I'm studying</h2>
 <p>
-📌 구름톤 K-digital training 정보보호전문가 5기<br>
+📌 KISIA 시큐리티아카데미 4기<br>
 📌 CPPG(2회차), 정보보안기사 실기(2~3회차) 준비<br>
 📌 토익 800+ 목표<br>
-📌 패스트캠퍼스 '블록체인 A to Z' 강의 간간히 수강 중 <br>
-   ~~사실 다른거 하느라 거의 안듣는중..~~
 
 <br>
 </p>
